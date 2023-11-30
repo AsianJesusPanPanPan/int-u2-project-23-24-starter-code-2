@@ -3,6 +3,8 @@ h1 {
     text-align:center;
 }
 
+
+
 /* The code below centers all images on the page and gives them a width of 400px. */
 img {
   display: block;
@@ -27,3 +29,5 @@ h2 {
     border: 5px black solid;
     margin:5px;
 }
+
+  body {background-color: mediumspringgreen;}
